@@ -1,0 +1,13 @@
+plugins {
+    id 'java-library'
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // 如果 pom.xml 有依赖，写在这里，比如：
+    // implementation 'org.some:library:1.2.3'
+}
